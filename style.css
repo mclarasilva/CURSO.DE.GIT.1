@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #4B0082;
+    color: #FFF;
+    text-align: center;
+    padding: 30 px;
+}
+
+h1 {
+    margin: 0;
+}
+
+h2 {
+    margin: 0;
+    font-size: 20 px;
+}
+
+section {
+    padding: 20 px;
+}
+
+h3 {
+    color: #4B0082;
+}
+
+.skills ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.skills li {
+    display: inline-block;
+ margin-right: 10 }
+ 
